@@ -1,0 +1,25 @@
+#product_sub {
+	display:flex;
+	justify-content: center;
+}
+
+#category table {
+	border-right:solid 1px;
+}
+
+#author table {
+	border-right:solid 1px;
+	padding-left: 10px;
+}
+
+#publish table {
+	padding-left: 10px;
+}
+
+#product_sub .btnDelete {
+	margin-right:10px;
+}
+
+h4{
+	margin:0;
+}

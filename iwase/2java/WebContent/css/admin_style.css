@@ -1,0 +1,100 @@
+/*全ページ適用*/
+h1{
+	text-align: center;
+}
+#admin_top{
+	text-align: center;
+}
+#admin_div{
+	text-align: center;
+}
+/*ここまで*/
+
+/*ここから管理者TOP*/
+.btnProduct{
+	width: 300px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.btnProduct_sub{
+	width: 300px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.btnCustomer{
+	width: 300px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.btnManager{
+	width: 300px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.btnTax{
+	width: 300px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.btnAdmin_history{
+	width: 300px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.btnAccess{
+	width: 300px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+/*ここまで*/
+
+/*ここから顧客*/
+
+.customer_id{
+	width: 80px;
+	text-align: center;
+}
+.customer_id2{
+	width: 110px;
+}
+.customer_sex{
+	width: 50px;
+}
+.customer_top{
+	margin-top: 40px;
+}
+/*ここまで*/
+
+/*ここから管理者登録*/
+.manager_id{
+	width: 80px;
+	text-align: center;
+}
+.manager_id2{
+	width: 110px;
+}
+.manager_sex{
+	width: 50px;
+}
+.manager_top{
+	margin-top: 40px;
+}
+.manager_h2{
+	color: red;
+}
+/*ここまで*/
+
+/*ここから税率*/
+.admin_tax{
+text-align: center;
+}
+.tax_button{
+	margin-top: 50px;
+}
+.tax_h2{
+	text-align: center;
+}
+/*ここまで*/
+.history_div{
+
+}

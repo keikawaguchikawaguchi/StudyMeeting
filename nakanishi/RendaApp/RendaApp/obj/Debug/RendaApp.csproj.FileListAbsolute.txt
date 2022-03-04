@@ -1,0 +1,10 @@
+C:\Users\lax3_\gittest\nakanishi\RendaApp\RendaApp\bin\Debug\RendaApp.exe.config
+C:\Users\lax3_\gittest\nakanishi\RendaApp\RendaApp\bin\Debug\RendaApp.exe
+C:\Users\lax3_\gittest\nakanishi\RendaApp\RendaApp\bin\Debug\RendaApp.pdb
+C:\Users\lax3_\gittest\nakanishi\RendaApp\RendaApp\obj\Debug\RendaApp.csprojAssemblyReference.cache
+C:\Users\lax3_\gittest\nakanishi\RendaApp\RendaApp\obj\Debug\RendaApp.Form1.resources
+C:\Users\lax3_\gittest\nakanishi\RendaApp\RendaApp\obj\Debug\RendaApp.Properties.Resources.resources
+C:\Users\lax3_\gittest\nakanishi\RendaApp\RendaApp\obj\Debug\RendaApp.csproj.GenerateResource.cache
+C:\Users\lax3_\gittest\nakanishi\RendaApp\RendaApp\obj\Debug\RendaApp.csproj.CoreCompileInputs.cache
+C:\Users\lax3_\gittest\nakanishi\RendaApp\RendaApp\obj\Debug\RendaApp.exe
+C:\Users\lax3_\gittest\nakanishi\RendaApp\RendaApp\obj\Debug\RendaApp.pdb

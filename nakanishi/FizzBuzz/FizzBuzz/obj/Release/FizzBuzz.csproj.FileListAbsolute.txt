@@ -1,0 +1,7 @@
+C:\Users\lax3_\gittest\StudyMeeting\nakanishi\FizzBuzz\FizzBuzz\bin\Release\FizzBuzz.exe.config
+C:\Users\lax3_\gittest\StudyMeeting\nakanishi\FizzBuzz\FizzBuzz\bin\Release\FizzBuzz.exe
+C:\Users\lax3_\gittest\StudyMeeting\nakanishi\FizzBuzz\FizzBuzz\bin\Release\FizzBuzz.pdb
+C:\Users\lax3_\gittest\StudyMeeting\nakanishi\FizzBuzz\FizzBuzz\obj\Release\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\lax3_\gittest\StudyMeeting\nakanishi\FizzBuzz\FizzBuzz\obj\Release\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\lax3_\gittest\StudyMeeting\nakanishi\FizzBuzz\FizzBuzz\obj\Release\FizzBuzz.exe
+C:\Users\lax3_\gittest\StudyMeeting\nakanishi\FizzBuzz\FizzBuzz\obj\Release\FizzBuzz.pdb

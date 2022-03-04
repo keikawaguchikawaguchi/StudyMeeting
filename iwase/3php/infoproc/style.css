@@ -1,0 +1,163 @@
+
+/*jsエラーメッセージ*/
+p#chara {
+    color: red;
+    display: none;
+}
+
+p#charaLength {
+    color: red;
+    display: none;
+}
+
+p#jsErro {
+    color: red;
+    display: none;
+}
+
+p#jsErroLength {
+    color: red;
+    display: none;
+}
+
+input[name="li_other"] {
+    width: 437px;
+    height: 60px;
+}
+
+
+
+p#editErroText{
+    color: red;
+    display: none;
+}
+
+
+/*info*/
+/*info〇〇〇〇〇はeditでも使ってる*/
+/*とくにinfoMainはいろんなとこで使ってるよ*/
+.infoMain {
+    margin-left: 100px;
+}
+
+.infoTable {
+
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+
+/*infotable inputはeditのiputのこと*/
+.infoTable input[type="date"], .infoTable input[type="text"]{
+    width: 480px;
+}
+
+.infoTdLeft {
+    width: 230px;
+}
+
+.infoTdRight {
+    width: 500px;
+}
+
+.infoUserHref {
+    margin-top: 30px;
+}
+
+.infoUserHref a {
+    margin-right: 50px;
+}
+
+.infoAdminHref {
+ margin-top: 30px;
+ margin-bottom: 40px;
+}
+
+.infoAdminHref a {
+    margin-right: 50px;
+
+}
+
+/*修正ボタン*/
+.editButton {
+    width: 75px;
+    margin-top: 30px;
+    margin-left: 640px;
+}
+
+/*delete*/
+.dleteButton {
+    margin-left: 200px;
+}
+
+.deleteHref {
+    margin-top: 20px;
+}
+
+.deleteHref a {
+  margin-top: 30px;
+  margin-right: 25px;
+}
+
+/*list行と列固定*/
+
+.listMain {
+    width: 2285px;
+    margin: 15px;
+}
+
+.listTable{
+    margin-bottom: 30px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+
+.fixed01,
+.fixed02{
+  position: sticky;
+  top: 0;
+  left: 0;
+  color: #2f4f4f;
+  background: #e6e6fa;
+  &:before{
+    content: "";
+    position: absolute;
+    top: -1px;
+    left: -1px;
+    width: 100%;
+    height: 100%;
+    border: 1px solid #ccc;
+}
+}
+
+.fixed01{
+  z-index: 2;
+}
+.fixed02{
+  z-index: 1;
+}
+
+/*new.php*/
+form[name="registration"] {
+    margin-top: 30px
+}
+
+form[name="registration"] input[type="submit"] {
+    margin-left: 215px;
+}
+
+/*license.php*/
+.licenseMain {
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.licenseHrefButton a {
+    margin-right: 40px;
+}
+
+.licenseHrefButton input {
+    width: 80px;
+    margin-left: 165px;
+}

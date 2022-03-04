@@ -1,0 +1,99 @@
+/*ここからマイページ*/
+.mypage_div{
+	text-align: center;
+}
+.mypage_input{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 73px;
+    padding-right: 74px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+.mypage_input2{
+	padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 73px;
+    padding-right: 74px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+/*ここまで*/
+
+/*ここからボタン変更*/
+.index_input{
+	 padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+.logout_input{
+	padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+    margin-top: 90px;
+    margin-left: 565px;
+    cursor: pointer;
+}
+/*ここまで*/
+
+/*ここから新規会員登録*/
+.regist_div{
+margin: 0 auto;
+width: 410px;
+}
+.regist_button{
+	text-align: center;
+}
+#tablebutton1{
+display: flex;
+gap: 0 10px;
+
+}
+.regist_input{
+height: 18px;
+}
+.regist_name{
+	text-align: left;
+}
+.regist_submit{
+	padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+    cursor: pointer;
+}
+
+/*ここまで*/
+
+/*ここから会員情報変更*/
+.mypage_change_div{
+    width: 500px;
+    margin: 0 auto;
+}
+.mypage_change_input{
+text-align: center;
+margin-right: 90px;
+}
+.mypage_change_submit{
+	margin-top: 40px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 80px;
+padding-right: 80px;
+cursor: pointer;
+}
+.mypage_change_td{
+	width: 200px;
+}
+/*ここまで*/
+
+.cart_td{
+	width: 85px;
+	text-align: right;
+}
+
+

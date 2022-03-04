@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ボタン連打</title>
+</head>
+
+<body>
+    <main>
+
+
+
+        <!-- 時間を決めるための入力ボックス -->
+        カウントダウン時間を入力してください:
+        <input type="number" id="timeBox" value="" min="1">秒
+
+        <div class="mainField">
+            <table>
+
+                <tr>
+                    <td>
+                        <!--秒数を表示  -->
+                        <h4 id="countdownField"></h4>
+
+                        <!-- 打鍵回数 -->
+                        <h4 id="barrageNumField"></h4>
+                    </td>
+                    <td>
+
+                        <h5 id="explanation">Enterでスタート</h5>
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+        <!-- 更新ボタン -->
+        <form action="index.html">
+            <input type="submit" id="retry" value="もう一度挑戦">
+        </form>
+    </main>
+
+    <script src="Process.js"></script>
+    <script>
+        const process = new Process();
+
+        //enter押したときにイベント発生
+        //keyupのときだけイベントが起きるのでenterを長押しでも一回しか発生しない
+        window.document.onkeyup = function (event) {
+            if (event.key === 'Enter') {
+
+                timeoutFlag = process.buttonClick();
+
+            }
+        }
+
+    </script>
+</body>
+
+</html>

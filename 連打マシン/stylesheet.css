@@ -1,0 +1,73 @@
+body{
+    font-family:"Avenir Next";
+}
+
+.mainField{
+    width:500px;
+    height:200px;
+    background:#ffe699;
+    border-radius: 30px;
+    margin:100px 100px 0 100px;
+    border: 1px solid;
+    border-color: #000000;
+}
+
+/*連打の回数表示*/
+#count {
+    display:inline-block;
+    position:absolute;
+    height:80px;
+    width:250px;
+    margin:100px 40px;
+    font-size:50px;
+    background-color:#ffffff;
+    border: 1px solid;
+    border-color: #000000;
+    text-align:right;
+}
+
+/*10秒タイマー*/
+#time{
+    width:70px;
+    color:#4472c4;
+    margin-left:100px;
+    font-size:50px;
+    background: none;
+    position:absolute;
+    border-color:#ffffff;
+    text-align:right;
+}
+
+/*クリックボタン*/
+#ren{
+    border-radius:50%;
+    position:absolute;
+    background-color: #00b0f0;
+    width:100px;
+    height:100px;
+    display:inline-block;
+    margin:30px 350px ;
+    box-shadow:0px 5px #000000;
+    cursor:pointer;
+}
+
+/*クリックボタンをクリック時*/
+#ren:active{
+    position:relative;
+    top:5px;
+    box-shadow:none;
+}
+
+/*スタートボタン*/
+#srt{
+    height:50px;
+    width:100px;
+    margin:30px 400px;
+}
+
+/*文章*/
+li{
+    list-style-type: none;
+    margin-left:100px;
+    font-size:20px;
+}
